@@ -6,4 +6,4 @@
 - make multiple template for the project by choosing the proper design for it .
 - multiple exemples.
 - wadia may do a UI design for the project.
--
+- Other than that i may need to think about a front service maybe whatsapp dm or smg
